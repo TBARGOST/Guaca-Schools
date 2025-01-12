@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This project allows you to easily set up a Guacamole jump-host with optional TLS reverse proxy (self-signed or Let's Encrypt), Active Directory integration, multi-factor authentication, Quick Connect & History Recording Storage UI enhancements, a custom UI dark themed template, auto database backup, email alerts and internal hardening options including fail2ban for defence against brute force attacks. There are also options for enterprise deployments similar to [Amazon's Guacamole Bastion Cluster](http://netcubed-ami.s3-website-us-east-1.amazonaws.com/guaws/v2.3.1/cluster/).
+This install script allows you to easily set up a Guacamole jump-host with optional TLS reverse proxy (self-signed or Let's Encrypt), Active Directory integration, multi-factor authentication, Quick Connect & History Recording Storage UI enhancements, a custom UI dark themed template, auto database backup, email alerts and internal hardening options including fail2ban for defence against brute force attacks. There are also options for enterprise deployments similar to [Amazon's Guacamole Bastion Cluster](http://netcubed-ami.s3-website-us-east-1.amazonaws.com/guaws/v2.3.1/cluster/).
 
 ## Automatic Installation
 
