@@ -54,7 +54,7 @@ wget https://raw.githubusercontent.com/itiligent/Guacamole-Install/main/1-setup.
 - Exit `1-setup.sh` at the first prompt.
 - All configurable script options are shown under **Silent setup options** at the start of `1-setup.sh`. 
 - Certain combinations of the **Silent setup options** will allow for a fully unattended install supporting mass deployment or highly customised docker builds.
-- Re-run your edited script locally after making changes (do not re-run the automatic install web link - see below. 
+- Re-run your edited script locally after making changes (do not re-run the automatic install web link - see below). 
 
 **Other custom install notes:**
 - **Caution:** Re-running the auto-installer re-downloads the suite of scripts and this will overwrite all your script edits. You must therefore run 1-setup.sh LOCALLY after editing. If any other child scripts are edited, their corresponding download links in the 1-setup.sh script must also be commented out.
